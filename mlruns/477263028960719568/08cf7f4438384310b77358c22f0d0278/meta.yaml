@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOps_ITI/MLOps-Course-Labs/mlruns/477263028960719568/08cf7f4438384310b77358c22f0d0278/artifacts
+deleted_time: 1747767868013
+end_time: 1747767657959
+entry_point_name: ''
+experiment_id: '477263028960719568'
+lifecycle_stage: deleted
+run_id: 08cf7f4438384310b77358c22f0d0278
+run_name: puzzled-panda-809
+run_uuid: 08cf7f4438384310b77358c22f0d0278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747767643683
+status: 3
+tags: []
+user_id: habib

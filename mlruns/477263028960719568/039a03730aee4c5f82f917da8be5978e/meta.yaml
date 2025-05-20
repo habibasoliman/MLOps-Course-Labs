@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_ITI/MLOps-Course-Labs/mlruns/477263028960719568/039a03730aee4c5f82f917da8be5978e/artifacts
+end_time: 1747767029626
+entry_point_name: ''
+experiment_id: '477263028960719568'
+lifecycle_stage: active
+run_id: 039a03730aee4c5f82f917da8be5978e
+run_name: awesome-grub-763
+run_uuid: 039a03730aee4c5f82f917da8be5978e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747767019504
+status: 3
+tags: []
+user_id: habib

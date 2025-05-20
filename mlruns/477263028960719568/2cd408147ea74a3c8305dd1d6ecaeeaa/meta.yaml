@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOps_ITI/MLOps-Course-Labs/mlruns/477263028960719568/2cd408147ea74a3c8305dd1d6ecaeeaa/artifacts
+deleted_time: 1747767887246
+end_time: 1747767740754
+entry_point_name: ''
+experiment_id: '477263028960719568'
+lifecycle_stage: deleted
+run_id: 2cd408147ea74a3c8305dd1d6ecaeeaa
+run_name: abrasive-gull-353
+run_uuid: 2cd408147ea74a3c8305dd1d6ecaeeaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747767726532
+status: 3
+tags: []
+user_id: habib

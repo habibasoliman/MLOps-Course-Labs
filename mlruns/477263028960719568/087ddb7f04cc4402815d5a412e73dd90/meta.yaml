@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_ITI/MLOps-Course-Labs/mlruns/477263028960719568/087ddb7f04cc4402815d5a412e73dd90/artifacts
+end_time: 1747767410439
+entry_point_name: ''
+experiment_id: '477263028960719568'
+lifecycle_stage: active
+run_id: 087ddb7f04cc4402815d5a412e73dd90
+run_name: fortunate-calf-250
+run_uuid: 087ddb7f04cc4402815d5a412e73dd90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747767398714
+status: 3
+tags: []
+user_id: habib

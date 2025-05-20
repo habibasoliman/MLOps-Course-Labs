@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747768033815
+current_stage: Production
+description: ''
+last_updated_timestamp: 1747768859992
+name: bank_churn_model
+run_id: 087ddb7f04cc4402815d5a412e73dd90
+run_link: ''
+source: file:///D:/MLOps_ITI/MLOps-Course-Labs/mlruns/477263028960719568/087ddb7f04cc4402815d5a412e73dd90/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/MLOps_ITI/MLOps-Course-Labs/mlruns/477263028960719568/087ddb7f04cc4402815d5a412e73dd90/artifacts/model
+user_id: null
+version: 1
