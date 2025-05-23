@@ -2,9 +2,11 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import mlflow.pyfunc
 import joblib
+from prometheus_fastapi_instrumentator import Instrumentator
 
 
 app = FastAPI(title="Bank Customer Churn Prediction API")
+Instrumentator().instrument(app).expose(app)
 
 #model_name = "bank_churn_model"  
 #model_stage = "Production"
