@@ -20,7 +20,8 @@ services:
       - monitoring
 
   grafana:
-    image: grafana/grafana
+    image: grafana/grafana-oss:latest
+    platform: linux/amd64
     container_name: grafana
     ports:
       - "3000:3000"
